@@ -1,3 +1,6 @@
 - 👋 Hi, I’m @WolfieKnee
 - 👀 I’m interested in Digital Health Technology
-- 🌱 I’m currently learning javascript and refreshing HTML/CSS
+- 🌱 I’m currently learning full-stack development and have completed:
+  - Javascript fundamentals with Node.js
+  - [Backend projects](https://github.com/WolfieKnee/be-nc-news) with PostgreSQL and Express using test-driven-development with Jest and Supertest
+  - [Frontend projects](https://github.com/WolfieKnee/fe-nc-news) with React, using Vite and Axios
